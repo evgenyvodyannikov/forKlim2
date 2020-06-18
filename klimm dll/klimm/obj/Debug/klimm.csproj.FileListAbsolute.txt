@@ -8,3 +8,16 @@ C:\Users\vodya\OneDrive\Рабочий стол\дз\forKlim2\klimm\klimm\obj\De
 C:\Users\vodya\OneDrive\Рабочий стол\дз\forKlim2\klimm\klimm\obj\Debug\klimm.csproj.CoreCompileInputs.cache
 C:\Users\vodya\OneDrive\Рабочий стол\дз\forKlim2\klimm\klimm\obj\Debug\klimm.exe
 C:\Users\vodya\OneDrive\Рабочий стол\дз\forKlim2\klimm\klimm\obj\Debug\klimm.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\forKlim2\klimm dll\klimm\bin\Debug\klimm.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\forKlim2\klimm dll\klimm\bin\Debug\klimm.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\forKlim2\klimm dll\klimm\bin\Debug\klimm.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\forKlim2\klimm dll\klimm\bin\Debug\ClassLibrary1.dll
+C:\Users\vodya\OneDrive\Рабочий стол\дз\forKlim2\klimm dll\klimm\bin\Debug\ClassLibrary1.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\forKlim2\klimm dll\klimm\obj\Debug\klimm.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\forKlim2\klimm dll\klimm\obj\Debug\klimm.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\forKlim2\klimm dll\klimm\obj\Debug\klimm.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\forKlim2\klimm dll\klimm\obj\Debug\klimm.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\forKlim2\klimm dll\klimm\obj\Debug\klimm.csproj.CoreCompileInputs.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\forKlim2\klimm dll\klimm\obj\Debug\klimm.csproj.CopyComplete
+C:\Users\vodya\OneDrive\Рабочий стол\дз\forKlim2\klimm dll\klimm\obj\Debug\klimm.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\forKlim2\klimm dll\klimm\obj\Debug\klimm.pdb
