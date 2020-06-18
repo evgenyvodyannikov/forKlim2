@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "klim", "klim\klim.csproj", "{B512AEC0-59C5-4414-8548-2160E09CFAEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "klimm", "klimm\klimm.csproj", "{DC132966-FC7B-4932-A8DC-0425C1291100}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B512AEC0-59C5-4414-8548-2160E09CFAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B512AEC0-59C5-4414-8548-2160E09CFAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B512AEC0-59C5-4414-8548-2160E09CFAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B512AEC0-59C5-4414-8548-2160E09CFAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC132966-FC7B-4932-A8DC-0425C1291100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC132966-FC7B-4932-A8DC-0425C1291100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC132966-FC7B-4932-A8DC-0425C1291100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC132966-FC7B-4932-A8DC-0425C1291100}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {34FBFDE4-F6EF-4FB3-A43C-68BC9E2225BA}
+		SolutionGuid = {0FBD9614-5993-4A29-AE6F-3BBA35B2CF0B}
 	EndGlobalSection
 EndGlobal
